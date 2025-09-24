@@ -5,6 +5,7 @@ This repository is a collection of practical, applied deep learning projects foc
 The repository solves various computer vision problems, including image classification, image segmentation, semantic segmentation, instance segmentation, object localization. I have worked with a number of popular datasets, including MNIST for digit classification, CIFAR-10 and CIFAR-100, ImageNet and TinyImageNet, as well as the Carvana Image Masking Challenge. Each dataset has its own folder in the repository, which contains the implementation, training scripts, and experiments with different architectures.
 
 Architectures Implemented 
+
     •  AlexNet
     •  VGG-16, VGG-19
     •  ResNet-18, ResNet-34, ResNet-50
